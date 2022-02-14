@@ -1,8 +1,0 @@
-Average accuracy of model0: 0.9275000000000001
-Average accuracy of model1: 0.915
-Average accuracy of model2: 0.835
-Average accuracy of model3: 0.8200000000000001
-Average accuracy of model4: 0.7725
-Average accuracy of model5: 0.83
-Average accuracy of model6: 0.8049999999999999
-Average accuracy of model7: 0.78
